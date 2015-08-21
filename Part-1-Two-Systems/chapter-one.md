@@ -40,16 +40,14 @@ suspicious about a person for no good reason?
 ## Jason
 People react with System 1 but follow up with System 2.
 
-Things that are System 1:
+* Things that are System 1:
 	* sympathy
 	* panic
-	*  
 
-Things that are System 2:
+* Things that are System 2:
 	* conscious thought
 	* analytical thinking
 	* problem solving
-	*
 	
 * How can we exploit System 1?
 	* cannot be turned off
@@ -68,3 +66,17 @@ Things that are System 2:
 		* changing the topic constantly
 
 
+## Rohan
+Interesting point from introduction: when faced with the need to employ intuitive heuristics for a difficult question, we sometimes answer an easier one without even noticing the shift. What are examples of this? (Example: people typically want to know "Is voting for this candidate the best decision for the future of America?" but this gets transformed to "How much do I like this candidate?")
+
+**My Observations/Interesting Questions**
+
+* Does System 2 really overpower/overrule System 1 in some cases, as Kahneman says? Or is it more of *convincing* your System 1 that the logically based decision is the way to go? It seems like we don't really make purely logical decisions without first convincing our emotional side that this is the way to go. Otherwise, we tend to get stuck in a battle of rational thinking versus emotions.
+
+* It's good to keep in mind that System 1 is different per person. For example, I did not think automatically of "butter" in the text completion exercise "bread and..."
+
+* Does System 2 get the last word as stated by Kahneman? I feel like base emotions ultimately drive us to act in whatever way we do, using logic simply as a strong heuristic for governing behavior. Maybe I'm misinterpreting and he just means to say that when System 1 can't do something (like 23 times 87), System 2 takes over and gets to govern behavior -- I then completely agree.
+
+* Cognitive illusion: allows for classification based on percepts like underlying characteristics of an object. What distinguishes this from something like a more tangible illusion? I think my definition is inadequate.
+
+* How can we binarize our mental thought into these two systems? It seems like there's much more going on, possibly with respect to a higher level controller dictating what happens, or maybe just an interfacing mechanism that handles communication between the systems and is also a large influence in our mental processes.
