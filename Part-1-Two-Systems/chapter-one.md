@@ -71,7 +71,7 @@ Interesting point from introduction: when faced with the need to employ intuitiv
 
 **My Observations/Interesting Questions**
 
-* Does System 2 really overpower/overrule System 1 in some cases, as Kahneman says? Or is it more of **convincing** your System 1 that the logically based decision is the way to go? It seems like we don't really make purely logical decisions without first convincing our emotional side that this is the way to go. Otherwise, we tend to get stuck in a battle of rational thinking versus emotions.
+* Does System 2 really overpower/overrule System 1 in some cases, as Kahneman says? Or is it more of *convincing* your System 1 that the logically based decision is the way to go? It seems like we don't really make purely logical decisions without first convincing our emotional side that this is the way to go. Otherwise, we tend to get stuck in a battle of rational thinking versus emotions.
 
 * It's good to keep in mind that System 1 is different per person. For example, I did not think automatically of "butter" in the text completion exercise "bread and..."
 
