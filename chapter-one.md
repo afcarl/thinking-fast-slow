@@ -1,5 +1,6 @@
-# Chapter One
+# Chapter One: The Characters of the Story
 
+// Smitha 
 Name whether each task is done by System 1 or System 2.
 
 * Make a "disgust face" when shown a horrible picture
@@ -35,3 +36,35 @@ because they were likely to be psychopaths.  What are examples of ways in which
 you allowed System 1 thinking to blind you from clear warning signs about a
 person?  Or examples of the opposite where System 1 thinking made you
 suspicious about a person for no good reason?
+
+//Jason
+People react with System 1 but follow up with System 2.
+
+Things that are System 1:
+	* sympathy
+	* panic
+	*  
+
+Things that are System 2:
+	* conscious thought
+	* analytical thinking
+	* problem solving
+	*
+	
+* How can we exploit System 1?
+	* cannot be turned off
+	* we don't recognize them in ourselves
+	* prejudice, confirmation bias, conformity 
+	* force quick decisions
+
+* How can we exploit System 2?
+	* requires mental exertion
+		* mental resources not always adequate when making decisions
+			* ie driving and talking
+			* overwhelm the mind to force rash decisions [information overload]
+			* never make a big decision on the spot
+	* salesman/lawyer tactics
+		* tons of confusing terms
+		* changing the topic constantly
+
+
