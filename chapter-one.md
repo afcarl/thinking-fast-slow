@@ -1,7 +1,7 @@
 # Chapter One: The Characters of the Story
 
-// Smitha 
-Name whether each task is done by System 1 or System 2.
+## Smitha 
+**Name whether each task is done by System 1 or System 2.**
 
 * Make a "disgust face" when shown a horrible picture
 * Check the validity of a complex logical argument
@@ -28,16 +28,16 @@ Name whether each task is done by System 1 or System 2.
 * Compare two washing machines for overall value
 * Brace for the starter gun in a race
 
-Answers: 1, 2, 1, 2, 1, 1, 2, 1, 2, 2, 2, 1, 1, 2, 1, 1, 2, 1, 2, 2, 2, 2, 2,
+**Answers**: 1, 2, 1, 2, 1, 1, 2, 1, 2, 2, 2, 1, 1, 2, 1, 1, 2, 1, 2, 2, 2, 2, 2,
 
-Kahneman gives an example of how one of his psychotherapy teachers told the
+**Question** Kahneman gives an example of how one of his psychotherapy teachers told the
 class to stay away from charming patients with a history of failed treatments
 because they were likely to be psychopaths.  What are examples of ways in which
 you allowed System 1 thinking to blind you from clear warning signs about a
 person?  Or examples of the opposite where System 1 thinking made you
 suspicious about a person for no good reason?
 
-//Jason
+## Jason
 People react with System 1 but follow up with System 2.
 
 Things that are System 1:
